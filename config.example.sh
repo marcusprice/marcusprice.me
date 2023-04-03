@@ -10,4 +10,4 @@ server_repo[name]=marcusprice.me-server
 # !important - server_dir must be in $GOPATH
 self_dir=~/code/marcusprice.me
 client_dir=~/code
-server_dir=~/code/go/src
+server_dir=~/go/src
